@@ -1,0 +1,2 @@
+# Virus Game
+A popular subgenre of strategy game is the so-called _Virus War_ format, where the player is shown a field of cells, each with a virus count, and may _attack_ other cells within a certain range.
